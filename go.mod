@@ -23,14 +23,13 @@ require (
 	github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba
 	github.com/digitalocean/godo v1.36.0
 	github.com/dnsimple/dnsimple-go v0.60.0
-	github.com/exoscale/egoscale v0.18.1
+	github.com/exoscale/egoscale v0.70.0
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/ffledgling/pdns-go v0.0.0-20180219074714-524e7daccd99
 	github.com/go-gandi/go-gandi v0.0.0-20200921091836-0d8a64b9cc09
 	github.com/golang/sync v0.0.0-20180314180146-1d60e4601c6f
 	github.com/google/go-cmp v0.5.2
 	github.com/gophercloud/gophercloud v0.1.0
-	github.com/gorilla/mux v1.7.4 // indirect
 	github.com/hooklift/gowsdl v0.4.0
 	github.com/infobloxopen/infoblox-go-client v1.1.1
 	github.com/linki/instrumented_http v0.2.0
@@ -49,7 +48,7 @@ require (
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.7.0.20210127161313-bd30bebeac4f
 	github.com/sirupsen/logrus v1.6.0
 	github.com/smartystreets/gunit v1.3.4 // indirect
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/terra-farm/udnssdk v1.3.5 // indirect
 	github.com/transip/gotransip/v6 v6.6.0
 	github.com/ultradns/ultradns-sdk-go v0.0.0-20200616202852-e62052662f60
@@ -57,7 +56,7 @@ require (
 	github.com/vultr/govultr/v2 v2.5.1
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20200401174654-e694b7bb0875
 	go.uber.org/ratelimit v0.1.0
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
+	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 	golang.org/x/tools v0.0.0-20200708003708-134513de8882 // indirect
